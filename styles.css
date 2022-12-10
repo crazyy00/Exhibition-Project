@@ -94,7 +94,7 @@ body
     content:"";
     width: 30%;
     height: 2px;
-    background: #088178;
+  /*  background: #088178;*/
     position: absolute;
     bottom:-4px;
     left: 20px;
