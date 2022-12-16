@@ -703,3 +703,83 @@ section{
     }
 
 }
+a
+{
+    text-decoration: none;
+}
+#container
+{
+    max-width: 430px;
+    margin: 30px auto;
+    padding: 20px;
+}
+.form-wrap
+{
+    background: #fff;
+    padding: 15px 25px;
+    color: #333;
+    border-top: 4px solid green;
+    border-radius: 05px;
+}
+.form-wrap h1,
+.form-wrap P
+{
+    text-align: center;
+}
+.form-wrap .form-group
+{
+    margin-top: 15px;
+}
+.form-wrap .form-group label
+{
+    display: block;
+    color:#666;
+    font-size: 14px;
+}
+.form-wrap .form-group input
+{
+    width: 100%;
+    padding: 10px;
+    border: #ddd 1 px solid;
+    border-radius: 5px;
+}
+.form-wrap button
+{
+    display: block;
+    width:100%;
+    color:black;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: green;
+    color:#fff;
+    cursor: pointer;
+    border: 0.5px solid black;
+    font-size:15px;
+    transition: 1s;
+}
+.form-wrap button:hover
+{
+    transition: 1s;
+    background-color:#209e19;
+    color: black;
+}
+.form-wrap .down
+{
+    font-size: 13px;
+    margin-top: 20px;
+}
+footer
+{
+    text-align: center;
+    margin-top: 10px;
+    color:#333;
+    font-size: 13px;
+}
+.form-wrap .up 
+{
+    font-size: 13px;
+}
+footer a
+{
+    color:green;
+}
