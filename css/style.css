@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600&display=swap');
 
 :root{
-    --orange:#ff7800;
+    --orange:green;
     --black:#130f40;
     --light-color:#666;
     --box-shadow:0 .5rem 1.5rem rgba(0,0,0,.1);
@@ -83,11 +83,11 @@ section{
 .header .logo{
     font-size: 2.5rem;
     font-weight: bolder;
-    color:var(--black);
+    color:var(--orange);
 }
 
 .header .logo i{
-    color:var(--orange);
+    color:var(--black);
 }
 
 .header .navbar a{
